@@ -6,3 +6,5 @@
 3. Deactivate python venv ".\env\Scripts\deactivate".  
 4. Install required python package "pip install -r requirements.txt".  
 5. Run the script "python main.py".  
+6. Output is:  
+   ![plot](./Challenge_3.jpeg)
