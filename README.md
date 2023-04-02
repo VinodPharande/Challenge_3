@@ -1,4 +1,4 @@
-# This is developed using python lanaguage.  
+# This is developed using python language.  
 
 ## How to run program  
 1. Create python virtual env "py -m env env".  
